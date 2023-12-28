@@ -1,0 +1,21 @@
+2023-12-26 00:32:58,957 INFO success_logger all books fetched successfully!!!
+INFO 2023-12-26 09:46:53,300 views success_logger all books fetched successfully!!!
+INFO 2023-12-26 21:36:27,828 views success_logger Books created successfully!!!with id 1
+INFO 2023-12-27 01:21:07,178 views success_logger all books fetched successfully!!!
+INFO 2023-12-27 01:28:05,037 views success_logger all books fetched successfully!!!
+INFO 2023-12-27 01:28:20,920 views success_logger Books created successfully!!!with id 2
+INFO 2023-12-27 01:28:37,253 views success_logger Book updated successfully!!! : Library object (2)
+INFO 2023-12-27 01:29:16,634 views success_logger Book data partially updated successfully!!! Library object (2)
+INFO 2023-12-27 04:53:39,041 views success_logger The user with username:user1 created successfully!!!
+INFO 2023-12-27 04:56:24,125 views success_logger all books fetched successfully!!!
+INFO 2023-12-27 04:57:22,625 views success_logger Book created successfully!!!with id 3
+INFO 2023-12-27 04:58:39,203 views success_logger Book updated successfully!!! : Library object (3)
+INFO 2023-12-27 05:00:07,991 views success_logger all books fetched successfully!!!
+INFO 2023-12-28 06:13:43,796 views success_logger all books fetched successfully!!!
+INFO 2023-12-28 06:15:04,251 views success_logger Book created successfully!!!with id 4
+INFO 2023-12-28 06:15:11,672 views success_logger all books fetched successfully!!!
+INFO 2023-12-28 06:24:04,709 views success_logger all books fetched successfully!!!
+INFO 2023-12-28 06:24:23,385 views success_logger Book created successfully!!!with id 5
+INFO 2023-12-28 06:25:05,807 views success_logger all books fetched successfully!!!
+INFO 2023-12-28 06:25:58,405 views success_logger Book deleted successfully!!! 5
+INFO 2023-12-28 06:26:08,212 views success_logger all books fetched successfully!!!

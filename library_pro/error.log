@@ -1,0 +1,10 @@
+ERROR 2023-12-27 01:22:07,186 views error_logger failed to create book {'book_price': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2023-12-27 01:27:59,951 views error_logger There is an error retrieving books
+ERROR 2023-12-27 01:29:27,489 views error_logger Failed to delete Book
+ERROR 2023-12-27 04:59:28,658 views error_logger Failed to delete Book
+ERROR 2023-12-27 05:06:43,397 views error_logger Failed to delete Book
+ERROR 2023-12-27 05:43:05,341 views error_logger Failed to delete book
+ERROR 2023-12-28 06:11:49,748 views error_logger Error saving the user data {'username': [ErrorDetail(string='A user with that username already exists.', code='unique')]}
+ERROR 2023-12-28 06:15:20,630 views error_logger Failed to delete Book
+ERROR 2023-12-28 06:16:14,207 views error_logger Failed to delete Book
+
